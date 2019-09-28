@@ -1,0 +1,9 @@
+*.ini
+*.sqlite
+*.socket
+*.pyc
+db.sqlite3
+server/settings.py
+__pycache__
+__pycache__/
+udo*

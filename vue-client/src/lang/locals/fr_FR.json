@@ -1,0 +1,10 @@
+{
+  "viewList": {
+    "minutes": "minutes",
+    "hours": "heures",
+    "today": "Aujourd'hui",
+    "loading": "Chargement",
+    "out-service": "Oups! Supports numériques temporairement indisponibles, veuillez réessayer plus tard...",
+    "ok": "D'accord"
+  }
+}

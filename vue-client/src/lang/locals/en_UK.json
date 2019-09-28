@@ -1,0 +1,10 @@
+{
+  "viewList": {
+    "minutes": "minutes",
+    "hours": "hours",
+    "today": "today",
+    "loading": "loading",
+    "out-service": "Oops! Digital media temporarily unavailable, please try again late...",
+    "ok": "Ok"
+  }
+}
