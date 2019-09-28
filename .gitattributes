@@ -1,0 +1,4 @@
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.python linguist-detectable=true
+*.android linguist-detectable=true
